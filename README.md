@@ -1,2 +1,2 @@
 # pauladdonwizard
-kodi skin wizaed
+kodi skin wizard
